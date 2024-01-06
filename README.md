@@ -71,7 +71,7 @@ Make sure you have the following installed:
 1. Clone the repository to your local machine:
 
   ```
-  git clone https://github.com/p-sandher/GuessMate-Game.git
+  git clone https://github.com/p-sandher/Goal-Tracking-App.git
   ```
 2.  Install dependencies
   ```
